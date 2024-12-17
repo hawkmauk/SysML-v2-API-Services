@@ -1,7 +1,7 @@
 name := """SysML-v2-API-Services"""
 organization := "org.omg"
 
-version := "2024-07"
+version := "2024-11"
 
 scalaVersion := "2.12.20"
 
